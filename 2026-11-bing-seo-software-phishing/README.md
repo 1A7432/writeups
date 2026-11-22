@@ -427,6 +427,12 @@ hxxps://pub-e1457ff2174c492db55509b4aa74b5a3.r2[.]dev/10.11SGsrfainascoi.zip    
 
 **证书**：Certum Code Signing 2021 CA，序列号 `23FF0D00EE80E58892220C95AE8EA33B`（已吊销）。
 
+**样本共享**：以下样本已于 2026-11-22 提交 MalwareBazaar（新账号提交需管理员审核，链接在审核通过后生效）：
+
+- `50.exe` — <https://bazaar.abuse.ch/sample/5f3abb5fc7f72e2ab7b43d9257b6388b2cb65f80ab2e890b3ffe3da5e80f4f89/>
+- `diskmgr.exe`（rdclient.exe） — <https://bazaar.abuse.ch/sample/4cc1bd35fc1ef912ad154135d17c1db5d302bc32c7b4e36709edc8980e2cac86/>
+- `t4g2n9.dll` — <https://bazaar.abuse.ch/sample/1bc2465dcbef5e2f0c4e3d7529096436fead622dea913a61c981534fdca0a2f2/>
+
 ---
 
 ## 附录 B：复现
