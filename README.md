@@ -6,7 +6,7 @@ All indicators are defanged. Personal data of domain registrants or certificate 
 
 | Date | Title | Topics |
 |---|---|---|
-| 2026-11 | [让大模型指挥小模型做 IDA 逆向：校验代理、结论台账与一次盲测](2026-11-llm-re-worker-harness/) | LLM agents, IDA, MCP guard proxy, evaluation, blind benchmark, obfuscation |
+| 2026-11 | [An LLM worker harness for IDA reverse engineering: a guard proxy, a findings ledger, and one blind benchmark run](2026-11-llm-re-worker-harness/) ([中文](2026-11-llm-re-worker-harness/README.zh-CN.md)) | LLM agents, IDA, MCP guard proxy, evaluation, blind benchmark, obfuscation |
 | 2026-11 | [必应 SEO 投毒仿冒软件下载站群技术分析：改配置的 RdViewer 远控与 Nuitka 侧加载 Shellcode 加载器](2026-11-bing-seo-software-phishing/) | SEO poisoning, cloaking, RdViewer RAT abuse, Nuitka, DLL side-loading, Silver Fox (银狐) |
 
 ## License
