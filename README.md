@@ -6,6 +6,7 @@ All indicators are defanged. Personal data of domain registrants or certificate 
 
 | Date | Title | Topics |
 |---|---|---|
+| 2026-11 | [Reverse-engineering work after LLM agents: what 2026 hiring, vulnerability and software-protection data say about the structure of the field](2026-11-re-work-after-llm-agents/) ([中文](2026-11-re-work-after-llm-agents/README.zh-CN.md)) | Industry structure, workforce data, vulnerability triage, software protection, LLM agents, evaluation |
 | 2026-11 | [An LLM worker harness for IDA reverse engineering: a guard proxy, a findings ledger, and one blind benchmark run](2026-11-llm-re-worker-harness/) ([中文](2026-11-llm-re-worker-harness/README.zh-CN.md)) | LLM agents, IDA, MCP guard proxy, evaluation, blind benchmark, obfuscation |
 | 2026-11 | [必应 SEO 投毒仿冒软件下载站群技术分析：改配置的 RdViewer 远控与 Nuitka 侧加载 Shellcode 加载器](2026-11-bing-seo-software-phishing/) | SEO poisoning, cloaking, RdViewer RAT abuse, Nuitka, DLL side-loading, Silver Fox (银狐) |
 
